@@ -1,0 +1,22 @@
+* {
+  text-align: center;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
+
+header {
+  background-color: white;
+  text-align: center;
+}
+
+header ul {
+  display: flex;
+}
+
+footer {
+  background-color: white;
+  color: black;
+}
